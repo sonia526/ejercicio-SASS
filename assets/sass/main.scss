@@ -1,0 +1,39 @@
+.capitan-header{
+  margin-top:0;
+  diplay:flex;
+  background-color: orange;
+  color:white;
+  padding:20px;
+}
+
+.lista-negra{
+  background-color:#1C2833;
+  margin-bottom:5px;
+  color:white;
+  margin-top:10px;
+  padding:5px;
+}
+.lista-naranja{
+  background:orange;
+  color:white;
+  margin-top:10px;
+  padding:5px;
+  // background-color:orange;
+}
+/*grilla media*/
+.margin-lef{
+  margin-lef:0px;
+}
+.grilla-negra{
+  margin-top:10px;
+  background-color:#1C2833;
+  color:white;
+}
+/*footer*/
+.footer{
+  margin-top:10px;
+  color:white;
+  background-color:#1C2833;
+  padding:20px;
+  width:100%;
+}
